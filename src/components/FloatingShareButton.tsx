@@ -22,9 +22,9 @@ const FloatingShareButton = () => {
   return (
     <div className="fixed bottom-6 right-6 z-40">
       <SocialShare 
-        title="Tukatae Ukabila - Unity in Kenya"
-        text="Join the movement for unity and peace in Kenya"
-        hashtags={["TukataeUkabila", "KenyaUnity", "Peace"]}
+        title="Tukatae Ukabila - Kenya for All Tribes"
+        text="Learn how every Kenyan can stop tribal politics and build justice for all"
+        hashtags={["TukataeUkabila", "KenyaForAll", "Justice"]}
         variant="default"
         size="icon"
         className="shadow-lg hover:shadow-xl transition-shadow bg-primary hover:bg-primary/90"
