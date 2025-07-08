@@ -1,0 +1,76 @@
+{
+  "title": "Ratiba ya Kihistoria",
+  "subtitle": "Kuelewa jinsi matukio ya kihistoria yalivyounda mienendo ya kikabila nchini Kenya",
+  "events": [
+    {
+      "year": "Kabla ya 1895",
+      "title": "Jamii za Jadi",
+      "description": "Jamii zaidi ya 40 tofauti za kikabila ziliishi kote Kenya na mahusiano ya biashara yaliyoanzishwa, ndoa za kijamii, na ubadilishanaji wa kitamaduni ambao uliongoza ushirikiano.",
+      "type": "positive",
+      "source": "https://ejtas.com/index.php/journal/article/download/240/198"
+    },
+    {
+      "year": "1895-1920",
+      "title": "Uvumbaji wa Ukabila wa Kikoloni",
+      "description": "Utawala wa kikoloni wa Uingereza ulianzisha mgawanyiko wa kikabila kama chombo cha 'gawanya na tawala.' Utawala wa kikoloni uliweka makabila katika makundi na kuunda utambulisho mkali wa kikabila mahali ambapo utambulisho wa kabla ya ukoloni ulikuwa wa kubadilika. Mchakato huu uliongeza dhana mbaya: Wakikuyu walionwa kama wenye akili za biashara lakini wa hila, Waluo kama wavivu na wasiopangika, wakati Wakamba waliwatazama makabila ya GEMA kwa shaka na kutokuamini.",
+      "type": "negative",
+      "source": "https://www.academia.edu/32363622/TRIBALISM_IN_KENYA"
+    },
+    {
+      "year": "Miaka ya 1920-1950",
+      "title": "Maendeleo Yasiyo Sawa na Unyanganyaji wa Ardhi",
+      "description": "Sera za kiuchumi za kikoloni ziliwafavoria makundi fulani, hasa wale katika maeneo ya rutuba kama Wakikuyu karibu na Mlima Kenya, ambao walipata upatikanaji bora wa elimu na ardhi. Hii iliunda ukosefu wa usawa wa kiuchumi kufuatana na mistari ya kikabila, ikichochea uchungu miongoni mwa makundi kama Wakalenjin katika Bonde la Ufa, ambao walihisi kunyanganywa na kutengwa. Sheria ya Ardhi za Taji ilihamisha familia zaidi ya 60,000 za Kikuyu.",
+      "type": "negative",
+      "source": "https://cers.leeds.ac.uk/wp-content/uploads/sites/97/2014/07/dissertation-on-Ethnicity-in-East-Africa-for-publishing-as-a-CERS-working-paper-Laura-Althoff.pdf"
+    },
+    {
+      "year": "Miaka ya 1920-1960",
+      "title": "Uimarishaji wa Kikabila Mijini",
+      "description": "Utafiti katika miji kama Nakuru ulionyesha kuwa uhamaji wa mijini kwa njia ya ajabu uliimarisha utambulisho wa kikabila na kuimarisha makundi ya kikabila badala ya kupunguza uelewa wa kikabila.",
+      "type": "negative",
+      "source": "https://www.cambridge.org/core/journals/journal-of-african-history/article/abs/tribal-associations-tribal-solidarity-and-tribal-chauvinism-in-a-kenya-town/90B0CF838C21B8FB216DA9ADF3AE37BF"
+    },
+    {
+      "year": "1963",
+      "title": "Mgawanyiko wa Kisiasa wakati wa Uhuru",
+      "description": "Wakati wa uhuru, ukabila ulikuwa chombo cha kisiasa. Ugomvi kati ya KADU (inayowakilisha makabila madogo) na KANU (iliyotawaliwa na makabila makubwa kama Kikuyu na Luo) ulikuwa mwendelezo wa mgawanyiko wa kikabila wa kikoloni. Ugomvi huu uliweka msingi wa ushindani wa kisiasa wa kikabila ambao unaendelea hadi leo.",
+      "type": "negative",
+      "source": "https://journals.co.za/doi/pdf/10.10520/AJA10169717_1004"
+    },
+    {
+      "year": "1991-1992",
+      "title": "Uwazi wa Kisiasa",
+      "description": "Kuanzishwa kwa demokrasia ya vyama vingi kulionyesha wanasiasa wakikusanya msaada kufuatana na mistari ya kikabila. Kufutwa kwa Kifungu cha 2A kulisababisha muungano wa kisiasa wa kikabila na vurugu zilizolengwa.",
+      "type": "negative",
+      "source": "https://www.hrw.org/reports/1993/kenya1193.pdf"
+    },
+    {
+      "year": "2007-2008",
+      "title": "Vurugu Baada ya Uchaguzi",
+      "description": "Matokeo ya uchaguzi wa urais yaliyobishaniwa yalisababisha vurugu za kikabila kote. Watu 1,133 walikufa, zaidi ya 350,000 walihamishwa ndani ya nchi, na mali 117,000 ziliharibiwa.",
+      "type": "critical",
+      "source": "https://www.csis.org/blogs/smart-global-health/post-election-violence-kenya-and-its-aftermath"
+    },
+    {
+      "year": "2008-2009",
+      "title": "Ukweli na Upatanisho",
+      "description": "Kuanzishwa kwa Tume ya Ukweli, Haki na Upatanisho (TJRC) na Tume ya Uchunguzi wa Vurugu Baada ya Uchaguzi (CIPEV) kuchunguza udhalimu wa kihistoria.",
+      "type": "positive",
+      "source": "https://en.wikipedia.org/wiki/Truth,_Justice_and_Reconciliation_Commission_of_Kenya"
+    },
+    {
+      "year": "2010",
+      "title": "Katiba Mpya na Ugatuzi",
+      "description": "Katiba ya 2010 ilianzisha ugatuzi wa mamlaka kwa kaunti 47, misingi ya kushughulikia udhalimu wa kihistoria, na kuimarisha taasisi za kukuza umoja wa kitaifa na uwakilishi sawa.",
+      "type": "positive",
+      "source": "https://law.stanford.edu/wp-content/uploads/2016/07/Cho-Connors-Fatima-Yalim-Preventing-Post-Election-Violence-Based-on-the-Kenyan-Experience.pdf"
+    },
+    {
+      "year": "2011-Sasa",
+      "title": "Juhudi za Umoja wa Kitaifa",
+      "description": "Tume ya Umoja na Ujumuishaji wa Kitaifa (NCIC) inafanya kazi kuondoa ubaguzi na kukuza umoja wa kitaifa. Kenya imeona mchakato wa uchaguzi ulioboresha na kupunguza vurugu baada ya uchaguzi.",
+      "type": "positive",
+      "source": "https://www.usip.org/sites/default/files/PW101-Elections-and-Violent-Conflict-in-Kenya-Making-Prevention-Stick.pdf"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "title": "Academic Resources & Sources",
+  "subtitle": "All content on this website is sourced from academic research, government reports, and credible institutions",
+  "categories": [
+    {
+      "category": "Academic Research",
+      "items": [
+        {
+          "title": "Tribalism in Kenya - Comprehensive Overview",
+          "description": "Extensive Academia.edu analysis of ethnic prejudices and political tribalism since independence, covering colonial origins and contemporary impacts",
+          "url": "https://www.academia.edu/32363622/TRIBALISM_IN_KENYA",
+          "type": "Academic Paper"
+        },
+        {
+          "title": "Tribal Associations in Kenyan Towns",
+          "description": "Cambridge University research on how urban migration affected tribal identity formation in Kenya, showing consolidation rather than diminishing of ethnic identities",
+          "url": "https://www.cambridge.org/core/journals/journal-of-african-history/article/abs/tribal-associations-tribal-solidarity-and-tribal-chauvinism-in-a-kenya-town/90B0CF838C21B8FB216DA9ADF3AE37BF",
+          "type": "Academic Paper"
+        },
+        {
+          "title": "Identities and Colonial Past in Kenya",
+          "description": "Leeds University comprehensive exploration of colonial politics of tribalism and its long-term effects on ethnic relations",
+          "url": "https://cers.leeds.ac.uk/wp-content/uploads/sites/97/2014/07/dissertation-on-Ethnicity-in-East-Africa-for-publishing-as-a-CERS-working-paper-Laura-Althoff.pdf",
+          "type": "Academic Paper"
+        },
+        {
+          "title": "Historical Perspective on Ethnic Relations",
+          "description": "Detailed analysis of colonial and post-colonial political dynamics shaping ethnicity in Kenya",
+          "url": "https://journals.co.za/doi/pdf/10.10520/AJA10169717_1004",
+          "type": "Academic Paper"
+        },
+        {
+          "title": "The Over-Criminalization of the Tribe",
+          "description": "Critical postcolonial analysis on ethnic identity and political discourse in post-colonial Kenya",
+          "url": "https://www.academia.edu/127692026/The_Over_Criminalization_of_the_Tribe_in_Post_Colonial_Kenya_A_Postmodern_and_Postcolonial_Critique",
+          "type": "Academic Paper"
+        },
+        {
+          "title": "Tradition, Tribe, and State in Kenya",
+          "description": "Cambridge Core case study on ethnic identity politics: The Mijikenda Union, 1945–1980",
+          "url": "https://www.cambridge.org/core/journals/comparative-studies-in-society-and-history/article/abs/tradition-tribe-and-state-in-kenya-the-mijikenda-union-19451980/0E26C2497545280F132C82A8948744FC",
+          "type": "Academic Paper"
+        }
+      ]
+    },
+    {
+      "category": "Government & Policy",
+      "items": [
+        {
+          "title": "Preventing Post-Election Violence",
+          "description": "Stanford Law School analysis of Kenya's experience and prevention mechanisms",
+          "url": "https://law.stanford.edu/wp-content/uploads/2016/07/Cho-Connors-Fatima-Yalim-Preventing-Post-Election-Violence-Based-on-the-Kenyan-Experience.pdf",
+          "type": "Policy Report"
+        },
+        {
+          "title": "Land Tenure and Violent Conflict",
+          "description": "Analysis of how land issues contribute to ethnic tensions in Kenya",
+          "url": "https://mokoro.co.uk/wp-content/uploads/acts_policy_brief_land_tenure_and_violent_conflict_kenya1.pdf",
+          "type": "Policy Brief"
+        },
+        {
+          "title": "Elections and Violent Conflict",
+          "description": "US Institute of Peace study on making electoral violence prevention stick",
+          "url": "https://www.usip.org/sites/default/files/PW101-Elections-and-Violent-Conflict-in-Kenya-Making-Prevention-Stick.pdf",
+          "type": "Policy Report"
+        }
+      ]
+    },
+    {
+      "category": "Human Rights & Peace",
+      "items": [
+        {
+          "title": "Divide and Rule - Human Rights Watch",
+          "description": "1993 report on state-sponsored ethnic violence in Kenya",
+          "url": "https://www.hrw.org/reports/1993/kenya1193.pdf",
+          "type": "Human Rights Report"
+        },
+        {
+          "title": "Post-Election Violence Commission",
+          "description": "International Center for Transitional Justice report on CIPEV",
+          "url": "https://www.ictj.org/publication/kenyan-commission-inquiry-post-election-violence",
+          "type": "Commission Report"
+        },
+        {
+          "title": "Truth, Justice and Reconciliation Commission",
+          "description": "Information about Kenya's TJRC established to address historical injustices",
+          "url": "https://en.wikipedia.org/wiki/Truth,_Justice_and_Reconciliation_Commission_of_Kenya",
+          "type": "Commission Info"
+        }
+      ]
+    },
+    {
+      "category": "Historical Context",
+      "items": [
+        {
+          "title": "Colonialism and Its Legacies in Kenya",
+          "description": "Comprehensive analysis of colonial impact on modern Kenya",
+          "url": "https://africanphilanthropy.issuelab.org/resources/19699/19699.pdf",
+          "type": "Historical Analysis"
+        },
+        {
+          "title": "Colonial State and Inter-Ethnic Conflicts",
+          "description": "Study of how colonial administration transformed ethnic relations",
+          "url": "https://ejtas.com/index.php/journal/article/download/240/198",
+          "type": "Historical Research"
+        },
+        {
+          "title": "Post-Election Violence Analysis",
+          "description": "Academic analysis of the 2007 post-election violence in Kenya",
+          "url": "https://ndpmetrics.com/papers/Kenya_Conflict_2007.pdf",
+          "type": "Conflict Analysis"
+        }
+      ]
+    }
+  ],
+  "footer": {
+    "title": "Academic Integrity & Transparency",
+    "description": "This educational website is built on rigorous academic research from universities, policy institutes, and human rights organizations. Every claim is sourced and linked to peer-reviewed research, government reports, and credible institutions to ensure accuracy and enable further learning."
+  }
+}

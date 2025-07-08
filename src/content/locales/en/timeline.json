@@ -1,0 +1,76 @@
+{
+  "title": "Historical Timeline",
+  "subtitle": "Understanding how historical events shaped tribal dynamics in Kenya",
+  "events": [
+    {
+      "year": "Pre-1895",
+      "title": "Traditional Communities",
+      "description": "Over 40 distinct ethnic communities lived across Kenya with established trade relationships, intermarriage, and cultural exchanges that fostered cooperation.",
+      "type": "positive",
+      "source": "https://ejtas.com/index.php/journal/article/download/240/198"
+    },
+    {
+      "year": "1895-1920",
+      "title": "Colonial Invention of Tribalism",
+      "description": "British colonial rule institutionalized ethnic divisions as a tool of 'divide and rule.' The colonial administration categorized and essentialized ethnic groups, creating rigid tribal identities where fluid pre-colonial identities had existed. This process entrenched harmful stereotypes: Kikuyus were labeled business-minded but conspiratorial, Luos as indolent and unpredictable, while Kambas viewed GEMA communities with suspicion.",
+      "type": "negative",
+      "source": "https://www.academia.edu/32363622/TRIBALISM_IN_KENYA"
+    },
+    {
+      "year": "1920s-1950s",
+      "title": "Unequal Development & Land Dispossession",
+      "description": "Colonial economic policies favored some groups, particularly those in fertile areas like the Kikuyu around Mount Kenya, who gained better access to education and land. This created economic inequalities along ethnic lines, fueling resentment among groups like the Kalenjin in the Rift Valley, who felt dispossessed and marginalized. The Crown Lands Ordinance displaced over 60,000 Kikuyu families.",
+      "type": "negative",
+      "source": "https://cers.leeds.ac.uk/wp-content/uploads/sites/97/2014/07/dissertation-on-Ethnicity-in-East-Africa-for-publishing-as-a-CERS-working-paper-Laura-Althoff.pdf"
+    },
+    {
+      "year": "1920s-1960s",
+      "title": "Urban Tribal Consolidation",
+      "description": "Research in towns like Nakuru showed that urban migration paradoxically strengthened tribal identities and consolidated ethnic groups rather than diminishing tribal consciousness.",
+      "type": "negative",
+      "source": "https://www.cambridge.org/core/journals/journal-of-african-history/article/abs/tribal-associations-tribal-solidarity-and-tribal-chauvinism-in-a-kenya-town/90B0CF838C21B8FB216DA9ADF3AE37BF"
+    },
+    {
+      "year": "1963",
+      "title": "Political Fragmentation at Independence",
+      "description": "At independence, tribalism became a political expedient. The rivalry between KADU (representing smaller tribes) and KANU (dominated by larger tribes like Kikuyu and Luo) was a continuation of colonial ethnic divisions. This rivalry laid the foundation for ethnic-based political competition that persists today.",
+      "type": "negative",
+      "source": "https://journals.co.za/doi/pdf/10.10520/AJA10169717_1004"
+    },
+    {
+      "year": "1991-1992",
+      "title": "Political Liberalization",
+      "description": "Introduction of multiparty democracy saw politicians mobilizing support along ethnic lines. The repeal of Section 2A led to ethnic-based political coalitions and targeted violence.",
+      "type": "negative",
+      "source": "https://www.hrw.org/reports/1993/kenya1193.pdf"
+    },
+    {
+      "year": "2007-2008",
+      "title": "Post-Election Violence",
+      "description": "Disputed presidential election results led to widespread ethnic violence. 1,133 people died, over 350,000 were internally displaced, and 117,000 properties were destroyed.",
+      "type": "critical",
+      "source": "https://www.csis.org/blogs/smart-global-health/post-election-violence-kenya-and-its-aftermath"
+    },
+    {
+      "year": "2008-2009",
+      "title": "Truth & Reconciliation",
+      "description": "Establishment of the Truth, Justice and Reconciliation Commission (TJRC) and Commission of Inquiry into Post-Election Violence (CIPEV) to investigate historical injustices.",
+      "type": "positive",
+      "source": "https://en.wikipedia.org/wiki/Truth,_Justice_and_Reconciliation_Commission_of_Kenya"
+    },
+    {
+      "year": "2010",
+      "title": "New Constitution & Devolution",
+      "description": "The 2010 Constitution introduced devolution of power to 47 counties, mechanisms for addressing historical injustices, and strengthened institutions to promote national unity and equal representation.",
+      "type": "positive",
+      "source": "https://law.stanford.edu/wp-content/uploads/2016/07/Cho-Connors-Fatima-Yalim-Preventing-Post-Election-Violence-Based-on-the-Kenyan-Experience.pdf"
+    },
+    {
+      "year": "2011-Present",
+      "title": "National Cohesion Efforts",
+      "description": "The National Cohesion and Integration Commission (NCIC) works to eliminate discrimination and promote national unity. Kenya has seen improved electoral processes and reduced post-election violence.",
+      "type": "positive",
+      "source": "https://www.usip.org/sites/default/files/PW101-Elections-and-Violent-Conflict-in-Kenya-Making-Prevention-Stick.pdf"
+    }
+  ]
+}

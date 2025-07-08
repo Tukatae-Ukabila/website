@@ -1,0 +1,120 @@
+{
+  "title": "Rasilimali za Kitaaluma na Vyanzo",
+  "subtitle": "Maudhui yote katika tovuti hii yanatokana na utafiti wa kitaaluma, ripoti za serikali, na taasisi za kuaminika",
+  "categories": [
+    {
+      "category": "Utafiti wa Kitaaluma",
+      "items": [
+        {
+          "title": "Ukabila nchini Kenya - Muhtasari Mkamilifu",
+          "description": "Uchambuzi mkuu wa Academia.edu wa ubaguzi wa kikabila na ukabila wa kisiasa tangu uhuru, ukishughulikia asili za kikoloni na athari za kisasa",
+          "url": "https://www.academia.edu/32363622/TRIBALISM_IN_KENYA",
+          "type": "Karatasi ya Kitaaluma"
+        },
+        {
+          "title": "Vyama vya Kikabila katika Miji ya Kenya",
+          "description": "Utafiti wa Chuo Kikuu cha Cambridge kuhusu jinsi uhamaji wa mijini ulivyoathiri uundaji wa utambulisho wa kikabila nchini Kenya, ukionyesha uimarishaji badala ya kupungua kwa utambulisho wa kikabila",
+          "url": "https://www.cambridge.org/core/journals/journal-of-african-history/article/abs/tribal-associations-tribal-solidarity-and-tribal-chauvinism-in-a-kenya-town/90B0CF838C21B8FB216DA9ADF3AE37BF",
+          "type": "Karatasi ya Kitaaluma"
+        },
+        {
+          "title": "Utambulisho na Mazazi ya Kikoloni nchini Kenya",
+          "description": "Uchunguzi mkamilifu wa Chuo Kikuu cha Leeds wa siasa za kikoloni za ukabila na athari zake za muda mrefu kwa mahusiano ya kikabila",
+          "url": "https://cers.leeds.ac.uk/wp-content/uploads/sites/97/2014/07/dissertation-on-Ethnicity-in-East-Africa-for-publishing-as-a-CERS-working-paper-Laura-Althoff.pdf",
+          "type": "Karatasi ya Kitaaluma"
+        },
+        {
+          "title": "Mtazamo wa Kihistoria wa Mahusiano ya Kikabila",
+          "description": "Uchambuzi wa kina wa mienendo ya kisiasa ya kikoloni na baada ya ukoloni inayounda ukabila nchini Kenya",
+          "url": "https://journals.co.za/doi/pdf/10.10520/AJA10169717_1004",
+          "type": "Karatasi ya Kitaaluma"
+        },
+        {
+          "title": "Uhalifu wa Ziada wa Kabila",
+          "description": "Uchambuzi wa kina wa baada ya ukoloni wa utambulisho wa kikabila na mazungumzo ya kisiasa katika Kenya ya baada ya ukoloni",
+          "url": "https://www.academia.edu/127692026/The_Over_Criminalization_of_the_Tribe_in_Post_Colonial_Kenya_A_Postmodern_and_Postcolonial_Critique",
+          "type": "Karatasi ya Kitaaluma"
+        },
+        {
+          "title": "Jadi, Kabila, na Serikali nchini Kenya",
+          "description": "Utafiti wa kesi wa Cambridge Core kuhusu siasa za utambulisho wa kikabila: Umoja wa Mijikenda, 1945–1980",
+          "url": "https://www.cambridge.org/core/journals/comparative-studies-in-society-and-history/article/abs/tradition-tribe-and-state-in-kenya-the-mijikenda-union-19451980/0E26C2497545280F132C82A8948744FC",
+          "type": "Karatasi ya Kitaaluma"
+        }
+      ]
+    },
+    {
+      "category": "Serikali na Sera",
+      "items": [
+        {
+          "title": "Kuzuia Vurugu Baada ya Uchaguzi",
+          "description": "Uchambuzi wa Shule ya Sheria ya Stanford wa uzoefu wa Kenya na misingi ya kuzuia",
+          "url": "https://law.stanford.edu/wp-content/uploads/2016/07/Cho-Connors-Fatima-Yalim-Preventing-Post-Election-Violence-Based-on-the-Kenyan-Experience.pdf",
+          "type": "Ripoti ya Sera"
+        },
+        {
+          "title": "Umiliki wa Ardhi na Migogoro ya Kivuruga",
+          "description": "Uchambuzi wa jinsi masuala ya ardhi yanavyochangia mvutano wa kikabila nchini Kenya",
+          "url": "https://mokoro.co.uk/wp-content/uploads/acts_policy_brief_land_tenure_and_violent_conflict_kenya1.pdf",
+          "type": "Muhtasari wa Sera"
+        },
+        {
+          "title": "Uchaguzi na Migogoro ya Kivuruga",
+          "description": "Utafiti wa Taasisi ya Amani ya Marekani kuhusu kufanya kuzuia vurugu za uchaguzi kuwa endelevu",
+          "url": "https://www.usip.org/sites/default/files/PW101-Elections-and-Violent-Conflict-in-Kenya-Making-Prevention-Stick.pdf",
+          "type": "Ripoti ya Sera"
+        }
+      ]
+    },
+    {
+      "category": "Haki za Binadamu na Amani",
+      "items": [
+        {
+          "title": "Gawanya na Tawala - Human Rights Watch",
+          "description": "Ripoti ya 1993 kuhusu vurugu za kikabila zilizotegemeewa na serikali nchini Kenya",
+          "url": "https://www.hrw.org/reports/1993/kenya1193.pdf",
+          "type": "Ripoti ya Haki za Binadamu"
+        },
+        {
+          "title": "Tume ya Vurugu Baada ya Uchaguzi",
+          "description": "Ripoti ya Kituo cha Kimataifa cha Haki ya Mpito kuhusu CIPEV",
+          "url": "https://www.ictj.org/publication/kenyan-commission-inquiry-post-election-violence",
+          "type": "Ripoti ya Tume"
+        },
+        {
+          "title": "Tume ya Ukweli, Haki na Upatanisho",
+          "description": "Maelezo kuhusu TJRC ya Kenya iliyoanzishwa kushughulikia udhalimu wa kihistoria",
+          "url": "https://en.wikipedia.org/wiki/Truth,_Justice_and_Reconciliation_Commission_of_Kenya",
+          "type": "Maelezo ya Tume"
+        }
+      ]
+    },
+    {
+      "category": "Muktadha wa Kihistoria",
+      "items": [
+        {
+          "title": "Ukoloni na Urithi Wake nchini Kenya",
+          "description": "Uchambuzi mkamilifu wa athari za kikoloni kwa Kenya ya kisasa",
+          "url": "https://africanphilanthropy.issuelab.org/resources/19699/19699.pdf",
+          "type": "Uchambuzi wa Kihistoria"
+        },
+        {
+          "title": "Serikali ya Kikoloni na Migogoro ya Kijamii",
+          "description": "Utafiti wa jinsi utawala wa kikoloni ulivyobadilisha mahusiano ya kikabila",
+          "url": "https://ejtas.com/index.php/journal/article/download/240/198",
+          "type": "Utafiti wa Kihistoria"
+        },
+        {
+          "title": "Uchambuzi wa Vurugu Baada ya Uchaguzi",
+          "description": "Uchambuzi wa kitaaluma wa vurugu za 2007 baada ya uchaguzi nchini Kenya",
+          "url": "https://ndpmetrics.com/papers/Kenya_Conflict_2007.pdf",
+          "type": "Uchambuzi wa Migogoro"
+        }
+      ]
+    }
+  ],
+  "footer": {
+    "title": "Uongozi wa Kitaaluma na Uwazi",
+    "description": "Tovuti hii ya kielimu imejengwa juu ya utafiti mkali wa kitaaluma kutoka vyuo vikuu, taasisi za sera, na mashirika ya haki za binadamu. Kila dai lina chanzo na kimeunganishwa na utafiti uliokaguliwa na wenzao, ripoti za serikali, na taasisi za kuaminika kuhakikisha usahihi na kuwezesha kujifunza zaidi."
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "title": "What You Can Do as a Kenyan Citizen",
+  "subtitle": "Practical actions for ordinary Kenyans—voters, youth, activists, community leaders, elders, and civil society—to avoid tribalism and tribal violence during elections",
+  "solutions": [
+    {
+      "title": "🧠 Practice Civic & Peace Education",
+      "description": "Educate yourself and others about voting rights, peaceful participation, and national unity through community engagement and dialogue.",
+      "actions": [
+        "Educate yourself and others about voting rights, peaceful participation, and national unity",
+        "Organize or attend community forums, church gatherings, and barazas to talk about peace",
+        "Challenge stereotypes in your circle—correct misinformation and tribal myths when they arise",
+        "Lead discussions about the importance of voting based on issues, not ethnicity"
+      ],
+      "source": "https://pesacheck.org",
+      "evidence": "Community-led peace education has proven effective in reducing electoral tensions in previous cycles."
+    },
+    {
+      "title": "📱 Combat Online Hate & Disinformation",
+      "description": "Take active steps to counter tribal hate speech and misinformation on social media platforms and messaging apps.",
+      "actions": [
+        "Call out tribal hate speech on WhatsApp, Facebook, TikTok, or Twitter (X)",
+        "Verify political information before sharing—use fact-checking platforms like PesaCheck or Africa Check",
+        "Join or create online peace movements using hashtags like #KenyaForAll, #VotePeacefully",
+        "Report inciteful content to platform moderators or the NCIC portal"
+      ],
+      "source": "https://africacheck.org",
+      "evidence": "Digital literacy and counter-messaging campaigns have successfully reduced online hate speech spread."
+    },
+    {
+      "title": "🧓🏾 Build Peace Through Local Leaders",
+      "description": "Mobilize respected community figures and youth to lead peace initiatives and cross-ethnic dialogue in your area.",
+      "actions": [
+        "Mobilize respected elders and youth leaders to lead peace declarations and inter-ethnic dialogues",
+        "Promote cross-community events—sports, storytelling, cultural days—to foster inter-tribal relationships",
+        "In hotspot areas, form community vigilance teams that monitor and defuse tensions locally",
+        "Encourage interfaith cooperation and joint community projects"
+      ],
+      "source": "https://law.stanford.edu/wp-content/uploads/2016/07/Cho-Connors-Fatima-Yalim-Preventing-Post-Election-Violence-Based-on-the-Kenyan-Experience.pdf",
+      "evidence": "Community-based peace initiatives have significantly reduced violence in previously volatile areas."
+    },
+    {
+      "title": "🎭 Use Arts & Culture for Peace",
+      "description": "Harness the power of creative expression to promote unity and challenge tribal divisions through accessible cultural mediums.",
+      "actions": [
+        "Create or support local drama skits, songs, spoken word that condemn violence and mock tribalism",
+        "Host or participate in peace caravans and creative roadshows across ethnic divides",
+        "Use vernacular radio or podcasts to spread messages of peace—especially in rural areas",
+        "Organize cultural festivals that celebrate Kenya's diversity as strength"
+      ],
+      "source": "https://www.usip.org/sites/default/files/PW101-Elections-and-Violent-Conflict-in-Kenya-Making-Prevention-Stick.pdf",
+      "evidence": "Arts-based peace messaging reaches wider audiences and creates lasting behavioral change."
+    },
+    {
+      "title": "🗣️ Pressure Politicians for Peace",
+      "description": "Hold your elected representatives accountable for promoting unity and rejecting ethnic politics in their campaigns and governance.",
+      "actions": [
+        "Ask your MCA, MP, Senator or Governor to publicly denounce tribal politics and sign peace pledges",
+        "Reject leaders who campaign on ethnic hate or insult other communities—online or at rallies",
+        "Attend debates or town halls and ask questions that emphasize national unity over tribal loyalty",
+        "Support candidates based on track record and policies, not ethnic background"
+      ],
+      "source": "https://www.ncic.go.ke",
+      "evidence": "Citizen pressure on politicians has led to more peaceful campaign rhetoric in recent elections."
+    },
+    {
+      "title": "🔍 Watch & Report Early Warning Signs",
+      "description": "Stay vigilant for signs of brewing conflict and report suspicious activities to appropriate authorities and peace organizations.",
+      "actions": [
+        "Watch for unfamiliar strangers collecting voter ID cards or mobilizing youth into ethnic groups",
+        "Monitor politicians issuing coded threats or inflammatory language",
+        "Report signs of tension to civil society observers and community peace organizations",
+        "Use peace hotlines and NCIC reporting mechanisms when you see concerning activities"
+      ],
+      "source": "https://mokoro.co.uk/wp-content/uploads/acts_policy_brief_land_tenure_and_violent_conflict_kenya1.pdf",
+      "evidence": "Early warning systems with citizen participation have prevented escalation of conflicts."
+    },
+    {
+      "title": "🧍🏾‍♀️ Be a Role Model for Tolerance",
+      "description": "Lead by example in your daily interactions and voting decisions, demonstrating that unity is possible and beneficial.",
+      "actions": [
+        "Refuse to vote 'for your tribe'—vote based on values, ideas, and leadership track record",
+        "Talk to friends and family about rejecting tribal divisions, especially in diverse urban areas",
+        "Speak up when people try to divide others—silence enables hate",
+        "Build friendships and business relationships across ethnic lines"
+      ],
+      "source": "https://www.cambridge.org/core/journals/journal-of-african-history/article/abs/tribal-associations-tribal-solidarity-and-tribal-chauvinism-in-a-kenya-town/90B0CF838C21B8FB216DA9ADF3AE37BF",
+      "evidence": "Individual behavior change creates ripple effects that transform community attitudes over time."
+    },
+    {
+      "title": "🏘️ Support Local Peace Agreements",
+      "description": "Participate in and strengthen community-level peace initiatives that have proven successful in preventing violence.",
+      "actions": [
+        "Support and participate in community-level peace pacts like those developed in Nakuru after 2007–08",
+        "Encourage intermarriages, local business partnerships, and school collaborations across tribal lines",
+        "Join or form peace committees that can mediate disputes before they escalate",
+        "Advocate for inclusive development projects that benefit all communities"
+      ],
+      "source": "https://www.usip.org/sites/default/files/PW101-Elections-and-Violent-Conflict-in-Kenya-Making-Prevention-Stick.pdf",
+      "evidence": "Local peace agreements have successfully maintained stability in previously conflict-prone areas."
+    }
+  ],
+  "callToAction": {
+    "title": "Take Action for Peace",
+    "description": "Every Kenyan citizen has the power to prevent electoral violence and build lasting unity. Choose to be part of the solution—start with one action today.",
+    "buttons": {
+      "share": "Share This Guide",
+      "learn": "Report Issues"
+    }
+  },
+  "summary": {
+    "title": "Quick Action Guide",
+    "description": "Your role in building peaceful elections",
+    "actions": [
+      {
+        "area": "Education",
+        "action": "Lead or attend civic forums, peace talks"
+      },
+      {
+        "area": "Online Behavior", 
+        "action": "Call out hate, verify info, promote unity"
+      },
+      {
+        "area": "Community Building",
+        "action": "Mobilize elders/youth for peace actions"
+      },
+      {
+        "area": "Arts & Culture",
+        "action": "Use drama/music/radio for unity"
+      },
+      {
+        "area": "Demand Leadership",
+        "action": "Reject tribal leaders, ask for peace pledges"
+      },
+      {
+        "area": "Report Tensions",
+        "action": "Alert peace monitors to signs of conflict"
+      },
+      {
+        "area": "Lead by Example",
+        "action": "Reject tribal politics in daily life"
+      },
+      {
+        "area": "Strengthen Bonds",
+        "action": "Support peace pacts and cross-tribal ties"
+      }
+    ]
+  }
+}
