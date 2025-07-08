@@ -1,22 +1,14 @@
-# Welcome to your Lovable project
+# Tukatae Ukabila - Kenya for All Tribes
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/c5ec90b4-49e4-44b0-bc92-82eb111d358c
+A website promoting unity and justice in Kenya by providing evidence-based solutions to overcome ethnic divisions and build lasting peace.
 
 ## How can I edit this code?
 
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/c5ec90b4-49e4-44b0-bc92-82eb111d358c) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
 **Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Clone this repo and push changes to contribute to the project.
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
@@ -62,12 +54,11 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/c5ec90b4-49e4-44b0-bc92-82eb111d358c) and click on Share -> Publish.
+This project can be deployed to any static hosting service like Vercel, Netlify, or GitHub Pages.
 
-## Can I connect a custom domain to my Lovable project?
+Build the project with:
+```sh
+npm run build
+```
 
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Then deploy the `dist` folder to your hosting service.
