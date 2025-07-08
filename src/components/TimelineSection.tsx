@@ -4,50 +4,72 @@ const timelineEvents = [
   {
     year: "Pre-1895",
     title: "Traditional Communities",
-    description: "Over 40 distinct ethnic communities lived across Kenya with established trade relationships and cultural exchanges.",
-    type: "positive"
+    description: "Over 40 distinct ethnic communities lived across Kenya with established trade relationships, intermarriage, and cultural exchanges that fostered cooperation.",
+    type: "positive",
+    source: "https://ejtas.com/index.php/journal/article/download/240/198"
   },
   {
-    year: "1895-1963",
-    title: "Colonial Era",
-    description: "British colonial rule introduced the 'divide and rule' policy, artificially amplifying tribal differences for administrative control.",
-    type: "negative"
+    year: "1895-1920",
+    title: "Colonial Administration",
+    description: "British colonial state established rigid spatial templates and administrative divisions that transformed inter-ethnic relations, implementing divide and rule policies.",
+    type: "negative",
+    source: "https://www.sciencedirect.com/science/article/pii/S0305748887801159"
   },
   {
     year: "1920s-1950s",
-    title: "Land Alienation",
-    description: "Colonial land policies displaced communities, creating ethnic tensions over land ownership and resources.",
-    type: "negative"
+    title: "Land Alienation & Forced Labor",
+    description: "The Crown Lands Ordinance of 1902 and subsequent policies displaced over 60,000 Kikuyu families, creating lasting grievances. The kipande system controlled African movement and labor.",
+    type: "negative",
+    source: "https://africanphilanthropy.issuelab.org/resources/19699/19699.pdf"
   },
   {
-    year: "1963",
-    title: "Independence",
-    description: "Kenya gained independence, but tribal politics began to emerge in the new democratic system.",
-    type: "neutral"
+    year: "1920s-1960s",
+    title: "Urban Tribal Consolidation",
+    description: "Research in towns like Nakuru showed that urban migration paradoxically strengthened tribal identities and consolidated ethnic groups rather than diminishing tribal consciousness.",
+    type: "negative",
+    source: "https://www.cambridge.org/core/journals/journal-of-african-history/article/abs/tribal-associations-tribal-solidarity-and-tribal-chauvinism-in-a-kenya-town/90B0CF838C21B8FB216DA9ADF3AE37BF"
   },
   {
-    year: "1992",
-    title: "Multiparty Politics",
-    description: "Introduction of multiparty democracy saw the rise of ethnic-based political mobilization and violence.",
-    type: "negative"
+    year: "1963-1978",
+    title: "Independence & Early Politics",
+    description: "Kenya gained independence with Jomo Kenyatta as President. Despite initial unity efforts, ethnic considerations increasingly influenced political appointments and resource allocation.",
+    type: "neutral",
+    source: "https://www.jstor.org/stable/1167103"
+  },
+  {
+    year: "1991-1992",
+    title: "Political Liberalization",
+    description: "Introduction of multiparty democracy saw politicians mobilizing support along ethnic lines. The repeal of Section 2A led to ethnic-based political coalitions and targeted violence.",
+    type: "negative",
+    source: "https://www.hrw.org/reports/1993/kenya1193.pdf"
   },
   {
     year: "2007-2008",
     title: "Post-Election Violence",
-    description: "Disputed elections led to ethnic violence affecting over 1,000 lives and displacing 600,000 people.",
-    type: "critical"
+    description: "Disputed presidential election results led to widespread ethnic violence. 1,133 people died, over 350,000 were internally displaced, and 117,000 properties were destroyed.",
+    type: "critical",
+    source: "https://www.csis.org/blogs/smart-global-health/post-election-violence-kenya-and-its-aftermath"
+  },
+  {
+    year: "2008-2009",
+    title: "Truth & Reconciliation",
+    description: "Establishment of the Truth, Justice and Reconciliation Commission (TJRC) and Commission of Inquiry into Post-Election Violence (CIPEV) to investigate historical injustices.",
+    type: "positive",
+    source: "https://en.wikipedia.org/wiki/Truth,_Justice_and_Reconciliation_Commission_of_Kenya"
   },
   {
     year: "2010",
-    title: "New Constitution",
-    description: "A new constitution introduced devolution and mechanisms to address historical injustices and promote unity.",
-    type: "positive"
+    title: "New Constitution & Devolution",
+    description: "The 2010 Constitution introduced devolution of power to 47 counties, mechanisms for addressing historical injustices, and strengthened institutions to promote national unity and equal representation.",
+    type: "positive",
+    source: "https://law.stanford.edu/wp-content/uploads/2016/07/Cho-Connors-Fatima-Yalim-Preventing-Post-Election-Violence-Based-on-the-Kenyan-Experience.pdf"
   },
   {
-    year: "2013-Present",
-    title: "Building Bridges",
-    description: "Ongoing efforts through institutions like NCIC and initiatives promoting national cohesion and integration.",
-    type: "positive"
+    year: "2011-Present",
+    title: "National Cohesion Efforts",
+    description: "The National Cohesion and Integration Commission (NCIC) works to eliminate discrimination and promote national unity. Kenya has seen improved electoral processes and reduced post-election violence.",
+    type: "positive",
+    source: "https://www.usip.org/sites/default/files/PW101-Elections-and-Violent-Conflict-in-Kenya-Making-Prevention-Stick.pdf"
   }
 ];
 
@@ -98,9 +120,22 @@ const TimelineSection = () => {
                     <h3 className="text-xl font-bold text-foreground mb-3">
                       {event.title}
                     </h3>
-                    <p className="text-muted-foreground leading-relaxed">
+                    <p className="text-muted-foreground leading-relaxed mb-3">
                       {event.description}
                     </p>
+                    {event.source && (
+                      <a 
+                        href={event.source} 
+                        target="_blank" 
+                        rel="noopener noreferrer"
+                        className="inline-flex items-center gap-2 text-sm text-primary hover:text-primary/80 transition-colors"
+                      >
+                        📚 Source
+                        <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-1M14 6h8m0 0v8m0-8L10 18" />
+                        </svg>
+                      </a>
+                    )}
                   </CardContent>
                 </Card>
               </div>
