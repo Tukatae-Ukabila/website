@@ -21,7 +21,7 @@ const LanguageToggle = () => {
     <div className="fixed top-4 right-4 z-50 flex items-center gap-3">
       <SocialShare 
         title="Tukatae Ukabila - Unity in Kenya"
-        text="Join the movement for unity and peace in Kenya"
+        text="Learn how every Kenyan can stop tribal politics and build justice for all"
         hashtags={["TukataeUkabila", "KenyaUnity", "Peace"]}
         variant="outline"
         size="icon"
